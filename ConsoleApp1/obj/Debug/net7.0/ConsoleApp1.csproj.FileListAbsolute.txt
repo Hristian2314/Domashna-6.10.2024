@@ -1,0 +1,4 @@
+C:\Users\f75\OneDrive\Desktop\Programirane\Domashnavgu\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f75\OneDrive\Desktop\Programirane\Domashnavgu\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\f75\OneDrive\Desktop\Programirane\Domashnavgu\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\f75\OneDrive\Desktop\Programirane\Domashnavgu\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
